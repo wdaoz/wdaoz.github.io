@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Hao's Blog • All posts by \"maxwell，2d\" tag",
+    "title": "Hao's Blog • All posts by \"学习,研究生\" category",
     "description": "",
     "home_page_url": "https://wdaoz.github.io",
     "items": [
@@ -11,7 +11,7 @@
             "date_published": "2024-04-26T16:00:00.000Z",
             "content_html": "",
             "tags": [
-                "Maxwell，2D"
+                "Maxwell,2D"
             ]
         }
     ]
