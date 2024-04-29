@@ -2,11 +2,11 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Hao's Blog",
     "description": "",
-    "home_page_url": "https://wdaoz.github.io",
+    "home_page_url": "https://wdaoz.asia",
     "items": [
         {
-            "id": "https://wdaoz.github.io/2024/04/29/Maxwell%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B8%80%EF%BC%89/",
-            "url": "https://wdaoz.github.io/2024/04/29/Maxwell%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B8%80%EF%BC%89/",
+            "id": "https://wdaoz.asia/2024/04/29/Maxwell%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B8%80%EF%BC%89/",
+            "url": "https://wdaoz.asia/2024/04/29/Maxwell%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B8%80%EF%BC%89/",
             "title": "Maxwell学习笔记（一）",
             "date_published": "2024-04-29T07:53:28.681Z",
             "content_html": "<h2 id=\"maxwell学习笔记一\"><a class=\"markdownIt-Anchor\" href=\"#maxwell学习笔记一\">#</a> Maxwell 学习笔记（一）</h2>\n<h3 id=\"maxwell2d图形绘制\"><a class=\"markdownIt-Anchor\" href=\"#maxwell2d图形绘制\">#</a> Maxwell2D 图形绘制</h3>\n<p>内容</p>\n<p><img src=\"/myimg/avatar.jpg\" alt=\"图片\" title=\"头像\"></p>\n",
@@ -16,8 +16,8 @@
             ]
         },
         {
-            "id": "https://wdaoz.github.io/2024/04/28/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/",
-            "url": "https://wdaoz.github.io/2024/04/28/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/",
+            "id": "https://wdaoz.asia/2024/04/28/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/",
+            "url": "https://wdaoz.asia/2024/04/28/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/",
             "title": "测试文章",
             "date_published": "2024-04-28T09:13:35.371Z",
             "content_html": "<h2 id=\"测试文章\"><a class=\"markdownIt-Anchor\" href=\"#测试文章\">#</a> 测试文章</h2>\n<h3 id=\"标题\"><a class=\"markdownIt-Anchor\" href=\"#标题\">#</a> 标题</h3>\n<p>文章内容</p>\n",
@@ -27,8 +27,8 @@
             ]
         },
         {
-            "id": "https://wdaoz.github.io/2024/04/25/hello-world/",
-            "url": "https://wdaoz.github.io/2024/04/25/hello-world/",
+            "id": "https://wdaoz.asia/2024/04/25/hello-world/",
+            "url": "https://wdaoz.asia/2024/04/25/hello-world/",
             "title": "Hello World",
             "date_published": "2024-04-25T02:56:35.461Z",
             "content_html": "<p>Welcome to <a href=\"https://hexo.io/\">Hexo</a>! This is your very first post. Check <a href=\"https://hexo.io/docs/\">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href=\"https://hexo.io/docs/troubleshooting.html\">troubleshooting</a> or you can ask me on <a href=\"https://github.com/hexojs/hexo/issues\">GitHub</a>.</p>\n<h2 id=\"quick-start\"><a class=\"markdownIt-Anchor\" href=\"#quick-start\">#</a> Quick Start</h2>\n<h3 id=\"create-a-new-post\"><a class=\"markdownIt-Anchor\" href=\"#create-a-new-post\">#</a> Create a new post</h3>\n<figure class=\"highlight bash\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">$ hexo new <span class=\"string\">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>\n<p>More info: <a href=\"https://hexo.io/docs/writing.html\">Writing</a></p>\n<h3 id=\"run-server\"><a class=\"markdownIt-Anchor\" href=\"#run-server\">#</a> Run server</h3>\n<figure class=\"highlight bash\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">$ hexo server</span><br></pre></td></tr></table></figure>\n<p>More info: <a href=\"https://hexo.io/docs/server.html\">Server</a></p>\n<h3 id=\"generate-static-files\"><a class=\"markdownIt-Anchor\" href=\"#generate-static-files\">#</a> Generate static files</h3>\n<figure class=\"highlight bash\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">$ hexo generate</span><br></pre></td></tr></table></figure>\n<p>More info: <a href=\"https://hexo.io/docs/generating.html\">Generating</a></p>\n<h3 id=\"deploy-to-remote-sites\"><a class=\"markdownIt-Anchor\" href=\"#deploy-to-remote-sites\">#</a> Deploy to remote sites</h3>\n<figure class=\"highlight bash\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">$ hexo deploy</span><br></pre></td></tr></table></figure>\n<p>More info: <a href=\"https://hexo.io/docs/one-command-deployment.html\">Deployment</a></p>\n",
