@@ -18,7 +18,7 @@
             <pubDate>Sun, 28 Apr 2024 17:13:35 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;测试文章&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#测试文章&#34;&gt;#&lt;/a&gt; 测试文章&lt;/h2&gt;
 &lt;h3 id=&#34;标题&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#标题&#34;&gt;#&lt;/a&gt; 标题&lt;/h3&gt;
-&lt;h4 id=&#34;内容&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#内容&#34;&gt;#&lt;/a&gt; 内容&lt;/h4&gt;
+&lt;p&gt;文章内容&lt;/p&gt;
  ]]></description>
         </item>
         <item>
