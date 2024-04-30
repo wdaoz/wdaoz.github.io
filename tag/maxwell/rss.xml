@@ -7,10 +7,10 @@
         <language>zh-CN</language>
         <pubDate>Mon, 29 Apr 2024 15:53:28 +0800</pubDate>
         <lastBuildDate>Mon, 29 Apr 2024 15:53:28 +0800</lastBuildDate>
-        <category>测试标签1</category>
-        <category>测试标签2</category>
         <category>Maxwell</category>
         <category>2D</category>
+        <category>测试标签1</category>
+        <category>测试标签2</category>
         <item>
             <guid isPermalink="true">https://wdaoz.asia/2024/04/29/Maxwell%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B8%80%EF%BC%89/</guid>
             <title>Maxwell学习笔记（一）</title>
@@ -21,7 +21,7 @@
             <description><![CDATA[ &lt;h2 id=&#34;maxwell学习笔记一&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#maxwell学习笔记一&#34;&gt;#&lt;/a&gt; Maxwell 学习笔记（一）&lt;/h2&gt;
 &lt;h3 id=&#34;maxwell2d图形绘制&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#maxwell2d图形绘制&#34;&gt;#&lt;/a&gt; Maxwell2D 图形绘制&lt;/h3&gt;
 &lt;p&gt;内容&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/myimg/avatar.jpg&#34; alt=&#34;图片&#34; title=&#34;头像&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/wdaoz/tuku/myimg/avatar.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
  ]]></description>
         </item>
     </channel>
