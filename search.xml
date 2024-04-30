@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Maxwell学习笔记（一）</title>
+      <link href="/5a1e2cac.html"/>
+      <url>/5a1e2cac.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="maxwell学习笔记一"><a class="markdownIt-Anchor" href="#maxwell学习笔记一">#</a> Maxwell 学习笔记（一）</h2><h3 id="maxwell2d图形绘制"><a class="markdownIt-Anchor" href="#maxwell2d图形绘制">#</a> Maxwell2D 图形绘制</h3><p>内容</p><p><img src="https://cdn.jsdelivr.net/gh/wdaoz/tuku/myimg/avatar.jpg" alt=""></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习 </category>
+          
+          <category> 研究生 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Maxwell </tag>
+            
+            <tag> 2D </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>测试文章</title>
+      <link href="/7a6a6b5a.html"/>
+      <url>/7a6a6b5a.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="测试文章"><a class="markdownIt-Anchor" href="#测试文章">#</a> 测试文章</h2><h3 id="标题"><a class="markdownIt-Anchor" href="#标题">#</a> 标题</h3><p>文章内容</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 测试分类1 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 测试标签1 </tag>
+            
+            <tag> 测试标签2 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/4a17b156.html"/>
+      <url>/4a17b156.html</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="quick-start"><a class="markdownIt-Anchor" href="#quick-start">#</a> Quick Start</h2><h3 id="create-a-new-post"><a class="markdownIt-Anchor" href="#create-a-new-post">#</a> Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="run-server"><a class="markdownIt-Anchor" href="#run-server">#</a> Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="generate-static-files"><a class="markdownIt-Anchor" href="#generate-static-files">#</a> Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="deploy-to-remote-sites"><a class="markdownIt-Anchor" href="#deploy-to-remote-sites">#</a> Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
