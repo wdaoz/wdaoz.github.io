@@ -19,10 +19,12 @@
 
 .icon-sheyingji:before {
   content: "\e61f";
+  font-size: 20px
 }
 
 .icon-shouye:before {
   content: "\e610";
+  font-size: 20px
 }
 
 .icon-zhaopian:before {
@@ -51,5 +53,6 @@
 
 .icon-shijianzhou:before {
   content: "\e64f";
+  font-size: 20px
 }
 
