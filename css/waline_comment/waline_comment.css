@@ -1,0 +1,54 @@
+/* waline 评论系统关键部分，不然会出现提示框均在同一位置的问题 */
+
+.wl-header {
+    overflow: visible;
+}
+.wl-header-item {
+    position: relative;
+}
+
+/* end */
+
+.wl-header-item:nth-child(1):before {
+    content: '哈喽哈喽';
+}
+
+.wl-header-item:nth-child(2):before {
+    content: '收到回复将通过的邮箱提醒您📧';
+}
+
+.wl-header-item:nth-child(3):before {
+    content: '可以通过昵称访问您的网站🔗';
+}
+
+.wl-header-item:focus-within::before{
+    display: block;
+}
+
+/* 主内容区 */
+.wl-header-item::before {
+    /* 先隐藏起来 */
+    display: none;
+    /* 绝对定位 */
+    position: absolute;
+    /* 向上移动60像素 */
+    top: -31px;
+    /* 文字强制不换行，防止left:50%导致的文字换行 */
+    white-space: nowrap;
+    /* 圆角 */
+    border-radius: 10px;
+    /* 距离左边50% */
+    left: 50%;
+    /* 然后再向左边挪动自身的一半，即可实现居中 */
+    transform: translate(-50%);
+    /* 填充 */
+    padding: 0px 18px;
+    background: #669900;
+    color: #fff;
+}
+
+
+/*作者: wuanqin*/
+/*链接: https://uuanqin.top/p/b3be711f/*/
+/*来源: 半方池水半方田*/
+/*著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。*/
